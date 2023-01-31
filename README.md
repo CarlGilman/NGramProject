@@ -1,6 +1,8 @@
 # NGramProject
 Project that breaks down files into "nGrams" of specified number, then output to a CSV file
 
+All code should be run using eclipse or other java programming software.
+
 My NGram Project consists of the following features. 
  
 The project is created VIA an menu driven UI which gives the user options to create the specified nGram.
